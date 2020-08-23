@@ -1,1 +1,1 @@
-Hello every one welecome
+Learning JavaScript
